@@ -1,7 +1,3 @@
-[Chicago law](https://www.chicago.gov/city/en/depts/streets/supp_info/construction_demolitionsites0.html) requires buildings with 5 or more residential units to provide recycling services to occupants.
+Denver passed the [Waste No More initiative](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Climate-Action-Sustainability-Resiliency/Zero-Waste/Waste-No-More) in November 2022, requiring large apartment buildings to provide recycling and compost services. However, the ordinance is not enforced.
 
-However, the City of Chicago does not enforce this law—and this leads many landlords NOT to provide recycling services to tenants.
-
-Add your report to our registry to show that your building does not recycle.
-
-Your report shows that many buildings are NOT offering recycling and that Chicagoans support stronger recycling laws.
+There is a task force working on the enforcement of the new law. But this website can help gather info on which buildings are still lacking recycling/composting services.
