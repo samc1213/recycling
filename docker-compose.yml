@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
  recycling:
-  image: ghcr.io/samc1213/recycling:latest
+  image: ghcr.io/samc1213/recycling:denver
   ports:
    - 3000:3000
   environment:
